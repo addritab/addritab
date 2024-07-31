@@ -18,9 +18,9 @@
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-**Senior Data & Platform Engineer** &#12299;_working in Data, Reliability Analytics & Automation_
+**Aspiring Developer; Concentration Undecided** &#12299;_learning Frontend, Backend, Design.
 <br/>
-**Digital Artist & Creator** &#12299;_specialised in neo-noir pixel art animations and 8bit-ish art_
+**Writer on the side** 
 
 ----
 
