@@ -1,8 +1,10 @@
 ```css
-#addritab { 
+#addritab {
+  height: 153cm;
+  display: learner;
   background: bengali; 
-  height: 153cm; 
-  display: learner; 
-  background: Aspiring Dev 💻; 
+  margin: positive-impact;
+  font-family: "Growth", "Innovation", sans-serif;
+
   }
 ```
