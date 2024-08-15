@@ -4,7 +4,6 @@
   display: learner;
   background: bengali; 
   margin: positive-impact;
-  font-family: "Growth", "Innovation", sans-serif;
-
+  font-family: "Growth", sans-serif;
   }
 ```
