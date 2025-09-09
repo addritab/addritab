@@ -1,6 +1,6 @@
 ```                                                                                                
  #addritab {
-  display: swift dev;                                                                                  
+  display: software dev;                                                                                  
   background: bengali; 
   margin: positive-impact;
   font-family: "Growth", sans-serif;                                                         ᕕ(⍤ヘ⍤)ᕗ 
