@@ -1,5 +1,4 @@
-<!-- 
-
+ ```
 .addrita {
   role: "developer" "designer";
   focus: "clean UI" "clean code";
@@ -7,4 +6,4 @@
   status: "building";
 }
 
--->
+ ```
